@@ -92,9 +92,3 @@
     * Rancher
 
 13. **Ресурсы для обучения**
-
-  
-  
-## Entry Point in any company
-
-// todo
