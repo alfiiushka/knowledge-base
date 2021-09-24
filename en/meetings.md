@@ -1,4 +1,4 @@
-## Optimization of daily meetings / Оптимизация проведения митингов
+## Optimization of daily meetings
 
 ### Daily
 
