@@ -4,8 +4,9 @@ RU
 
   + [**Code Review**](/ru/code_review.md)
   + [**Entry Point в любую компанию**](/ru/entry_point.md)
-  + [**Встречи(митинги) с командой разработки**](/ru/meetings.md)
+  + [**Ежедневные статусы**](/ru/daily_meetings.md)
   + [**Ухаживание за backlog-ом**](/ru/backlog_grooming.md)
+  + [**Планирование**](/ru/planning.md)
 
 EN
 
