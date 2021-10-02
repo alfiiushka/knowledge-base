@@ -6,7 +6,9 @@ RU
   + [**Entry Point в любую компанию**](/ru/entry_point.md)
   + [**Ежедневные статусы**](/ru/daily_meetings.md)
   + [**Ухаживание за backlog-ом**](/ru/backlog_grooming.md)
+  + [**Командное обсуждение задач**](/ru/task_discussion.md)
   + [**Планирование**](/ru/planning.md)
+
 
 EN
 
