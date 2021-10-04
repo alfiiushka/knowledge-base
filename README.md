@@ -1,4 +1,4 @@
-# knowledge-base
+## Наработки по выстраиванию процесссов:  
 
 RU
 
@@ -13,3 +13,7 @@ RU
 EN
 
   + [**Meetings**](/en/meetings.md)
+
+## Статьи:
+
+  + [**Применение Product Management-а к внутренним платформам**](/ru/internal_product_management.md)
