@@ -17,3 +17,4 @@ EN
 ## Статьи:
 
   + [**Применение Product Management-а к внутренним платформам**](/ru/internal_product_management.md)
+  + [**Ссылки или значения?**](/ru/references_or_value_java.md)
