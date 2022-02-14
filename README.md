@@ -8,6 +8,7 @@ RU
   + [**Ухаживание за backlog-ом**](/ru/backlog_grooming.md)
   + [**Командное обсуждение задач**](/ru/task_discussion.md)
   + [**Планирование**](/ru/planning.md)
+  + [**Фасилитация**](/ru/facilitation.md)
 
 
 EN
